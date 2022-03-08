@@ -1,5 +1,6 @@
 {
 	"name": "url",
 	"binding": "urlAction",
-	"type" : "text"
+	"type" : "text",
+	"target" : ["ios", "android"]
 }
